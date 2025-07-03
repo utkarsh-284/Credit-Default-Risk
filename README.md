@@ -97,7 +97,8 @@ Python 3.7+
 
 ## Contributor
 **Utkarsh Bhardwaj**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh284-blue)](https://www.linkedin.com/in/utkarsh284/)
-[![GitHub](https://img.shields.io/badge/GitHub-utkarsh--284-lightgrey)](https://github.com/utkarsh-284) 
-**Contact:** ubhardwaj284@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh284-blue)](https://www.linkedin.com/in/utkarsh284/) (/br)
+[![GitHub](https://img.shields.io/badge/GitHub-utkarsh--284-lightgrey)](https://github.com/utkarsh-284) (/br)
+**Contact:** ubhardwaj284@gmail.com (/br)
 **Publish Date:** 28th Feburary, 2025
